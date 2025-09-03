@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+"""
+VADER ANALYSIS TOOLS BY:
+Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for
+Sentiment Analysis of Social Media Text. Eighth International Conference on
+Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
+
+THIS SCRIPT WAS ADAPTED FOR PURPOSES OF YOUTUBE SENTIMENT ANALYSIS IN 2025
+"""
 import os
 import re
 from collections import Counter, defaultdict
